@@ -1,9 +1,9 @@
-# pyrelatio
+<img width="480" height="140" alt="pyrelatio-logo" src="https://github.com/user-attachments/assets/bdbdceef-2b77-47b6-9c48-b6f64d9b727f" />
 
-A simple, working mini relational database in Python, built as a systems
+PyRelatio is a simple, working mini relational database in Python, built as a systems
 programming project.
 
-pyrelatio implements the core pieces of a relational database (page storage,
+PyRelatio implements the core pieces of a relational database (page storage,
 buffer management, caching, logging, and transactions) as small, readable
 modules. The focus is on how these systems work close to the machine, and on
 making each layer fast.

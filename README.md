@@ -1,4 +1,5 @@
-<img width="800" height="228" alt="image" src="https://github.com/user-attachments/assets/c3ca24ae-a197-4e01-91ef-76c090b077fe" />
+<img width="300" height="100" alt="pyrelatio-logo" src="https://github.com/user-attachments/assets/f986f309-b757-4436-8518-de4e952df78c" />
+
 
 PyRelatio is a simple, working mini relational database in Python, built as a systems
 programming project.
